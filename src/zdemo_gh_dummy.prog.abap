@@ -24,3 +24,5 @@
 REPORT  ZDEMO_GH_DUMMY.
 
 WRITE: 'Hello world'.
+
+WRITE: 'Hello world-2'.
